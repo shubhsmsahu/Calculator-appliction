@@ -1,0 +1,21 @@
+#main {
+  display: flexbox;
+  border: solid black;
+  height: 280px;
+  width: 191px;
+  padding: 5px;  
+}
+#heading {
+   text-align: center;
+}
+#input {
+    height: 30px;
+    width: 180px;
+    margin-bottom: 10px;
+}
+.allbutton {
+    padding: 5px 15px;
+    margin-bottom: 5px;
+    margin-left: 3px;
+    font-size: 13px;
+}
